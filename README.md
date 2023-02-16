@@ -7,9 +7,10 @@ This is a basic calculator. It can perform four basic arithmetic operations: add
 ## How to Run
 
 To run this, you need to download Visual Studio code(VS code). The following is a link to the download for VS code: 
-
+https://code.visualstudio.com/Download
 Then you can download the files in this repository and open them on VS code. Additionally, you will need to downlioad the extension for "live server". Then open the index.html and press ctrl+p. Type ">live server: open with live server" and this will open a browser with the calculator. 
 
 ### Acknowledgements
 
-This was made with the help of ____ on youtube. The following is a link to the tutorial I used: 
+This was made with the help of Tech2 etc on youtube. The following is a link to the tutorial I used: 
+https://www.youtube.com/watch?v=HQCLzqhiT2w
